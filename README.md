@@ -29,6 +29,9 @@ Amend the file envfile and set the variable **yotta_inst** to the directory wher
 Stop Cockpit:
 
     sudo systemctl stop cockpit
+    
+ Setup the YottaDB plugin directory:
+ 
     mkdir /usr/share/cockpit/yottadb
     cp /usr/local/YottaDB-Cockpit/* /usr/share/cockpit/yottadb/
 
