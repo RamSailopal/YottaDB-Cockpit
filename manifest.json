@@ -1,0 +1,10 @@
+{
+    "version": 0,
+
+    "tools": {
+        "yottafree": {
+            "label": "YottaDB",
+            "path": "yottafree.html"
+        }
+    }
+}
