@@ -1,0 +1,6 @@
+tasks:
+  - init: |
+      echo 'TODO: build project'
+    command: |
+      apt-get update && apt-get install -y cockpit wget && cd /tmp && sudo https://gitlab.com/YottaDB/DB/YDB/raw/master/sr_unix/ydbinstall.sh && sudo ./ydbinstall.sh --installdir /usr/local/yottadb/ --utf8 default --verbose
+
