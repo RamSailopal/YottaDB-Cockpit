@@ -2,6 +2,8 @@
 
 A YottaDB dashboard plugin for Linux Cockpit
 
+![Alt text](yottadb-cockpit [MConverter.eu].webp?raw=true "YottaDB Cockpit")
+
 # Features
 
 Database Free Count
